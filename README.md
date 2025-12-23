@@ -41,11 +41,12 @@
 1. Создать базу данных:
 ```sql
 CREATE DATABASE mobile_connection;
-
+```
 2. Подключиться к базе данных:
 ```sql
 \c mobile_connection
-
+```
 2. Выполнить дамп:
 ```sql
 \i mobile_connection.sql
+```
